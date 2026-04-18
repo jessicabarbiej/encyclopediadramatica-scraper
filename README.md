@@ -1,6 +1,8 @@
 # Encyclopedia Dramatica Scraper
 Scraper realized for the DMI summer School 2018. It contains all the scripts to get all the links among pages hosted on [encyclopediadramatica.rs](https://encyclopediadramatica.rs/Main_Page).
 
+#Generate valid 50 brokers email address example@yahoo.com exanple@aol.com etc 
+automaticaly every 24hours and store generated content in a different folder...
 Links are extracted directly from wikitext to exclude transcluded links (e.g. all the links cotained in pages templates).
 
 It is composed by a series aof scripts.
